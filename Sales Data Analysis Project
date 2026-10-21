@@ -1,0 +1,28 @@
+# Sales Data Analysis Project
+
+## Project Overview
+This project analyses sales data to understand business performance and identify opportunities to improve sales.
+
+## Objectives
+- Analyse total sales and revenue.
+- Identify top-selling products.
+- Compare sales across customers.
+- Track monthly sales performance.
+- Generate insights to support business decisions.
+
+## Tools Used
+- Microsoft Excel
+- SQL
+- Power BI
+
+## Key Business Questions
+1. What are the total sales?
+2. Which products generate the most revenue?
+3. Which customers contribute the most sales?
+4. Which months have the highest sales?
+
+## Project Status
+In progress — sample data, SQL analysis, and a Power BI dashboard will be added.
+
+## Author
+Aspiring Data Analyst
